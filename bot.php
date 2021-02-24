@@ -5,7 +5,7 @@ ini_set('display_startup_errors', 0);
 error_reporting(E_ALL);
 
 require_once('setxzeen/TeamSpeak3/TeamSpeak3.php');
-require_once('setxzeen/TeamSpeak3/TeamSpeak3.php');
+require_once('config.php');
 
 //SYSTEM By SulimanZeen //
 
